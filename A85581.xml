@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Brjttajnes distractions: or An alarum to awaken all good subjects; shewing them the cause and cure of their present evils. And briefly answering some false frivolous objections, made by one of the chiefe rabbies of these times. With an exhortation in the conclusion to all good subjects, for to put in practice their just duty. Written by a true lover both of God, his king, and countrey.</title>
+            <author>True lover both of God, his King, and countrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85581</idno>
+            <idno type="STC">Wing G1666</idno>
+            <idno type="STC">Thomason E128_32</idno>
+            <idno type="STC">ESTC R3654</idno>
+            <idno type="EEBO-CITATION">99872449</idno>
+            <idno type="PROQUEST">99872449</idno>
+            <idno type="VID">156257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156257)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Brjttajnes distractions: or An alarum to awaken all good subjects; shewing them the cause and cure of their present evils. And briefly answering some false frivolous objections, made by one of the chiefe rabbies of these times. With an exhortation in the conclusion to all good subjects, for to put in practice their just duty. Written by a true lover both of God, his king, and countrey.</title>
+                  <author>True lover both of God, his King, and countrey.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "novemb: 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156257:1"/>
+            <pb facs="tcp:156257:1" rendition="simple:additions"/>
+            <p>GREAT BRJTTAJNES DISTRACTIONS: OR An Alarum to awaken all good Subjects; Shewing them the Cauſe and Cure of their preſent Evils. And briefly anſwering ſome falſe frivolous Obje<g ref="char:EOLhyphen"/>ctions, made by one of the Chiefe RABBIES <hi>of theſe Times.</hi> WITH An Exhortation in the Concluſion to all good Sub<g ref="char:EOLhyphen"/>jects, for to put in practice their juſt duty.</p>
+            <p>
+               <hi>Written by a true lover both of God, his King, and Countrey.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156257:2"/>
+            <pb n="1" facs="tcp:156257:2"/>
+            <head>GREAT BRITTAINES DISTRACTIONS: OR An Alarum to awaken all good SVBJECTS.</head>
+            <p>GOd never leaves Man untill Man firſt leaves God; Puniſhments are but the ſad Concommitants of ſinne, if every ſoule would avoid the cauſe, any ſoule needs not dread the effect. Sinne (my deare Countreymen) hath cauſed diſtraction, as a juſt revenge, to fall heavy on us. Let every one examine privately his owne heart, And I dare boldly ſay, it will evidently and manifeſtly appeare, that this Hell-poyſoning venome <hi>[Sinne]</hi> hath too much taunted his ſoule, and brought upon us this preſent evill: and hence comes it to paſſe, that as the ſhaddow attends the ſubſtance: ſo a deluge of miſeries waite upon a multitude of enormious ſins, crying, as it were, for <hi>Vengeance, Vengeance.</hi> Yet ſee, ſee beloved, and juſtly Ponder and Admire Hea<g ref="char:EOLhyphen"/>vens Sacred Mercy, though our Nation hath beene ſwift in ſinning, for theſe many yeares paſt: Yet our good GOD hath beene ſlow in pu<g ref="char:EOLhyphen"/>niſhing; Witneſſe thoſe <hi>Halcyon Daies,</hi> thoſe <hi>Neſtor Yeares,</hi> I had almoſt ſaid, even <hi>Heavenly</hi> ones, that we have many of us ſweet<g ref="char:EOLhyphen"/>ly enjoyed for theſe threeſcore yeares and upwards. I might adde
+<pb n="2" facs="tcp:156257:3"/> more, under that Mirrour of Women kind, the ever truly Famous Queen ELIZABETH, under that renowned Monarch, King IAMES, of ever bleſſed memory: and in a word, under our moſt happy and Vnpa<g ref="char:EOLhyphen"/>ralled example of all Princely and Heroique vertues, our Illuſtrious King CHARLES, untill theſe three laſt yeares of His preſent Raigne. And then, O then, and I feare, <hi>Woe</hi> ere long; me thought I perceived a <hi>blacke Cloude teeming in the North,</hi> in which were not darkely ſeene Armed men, of which I ſhould remember to expatiate my diſcourſe, but that I cannot, and ought not to forget, that there hath by Royall aſcent paſſed an Act of oblivion touching that unhappy buſineſſe. On<g ref="char:EOLhyphen"/>ly this, from the inward of my ſoule, I doe wiſh there never had beene ſuch a preſident, or being, That like Apes our <hi>Brittiſh</hi> had not too greedily perſued to ſoone to imitate them. Then ſhould I have had juſt cauſe to have held my peace in peace, and no way have had ſo un<g ref="char:EOLhyphen"/>deſired a Subject to treat of, as is ſaid; unhappy diſtraction! of which, leaſt I might ſeeme too much to diſtract you with a bare Denomination of it onely, my ſubſequent Diſcourſe ſhall more fully and lively Portrai<g ref="char:EOLhyphen"/>ture it unto you.</p>
+            <p>
+               <hi>Diſtraction</hi> is nothing elſe, but a ſtrange <hi>Metamorphoſis,</hi> or a ſad change of welcome joy, into unwelcome ſorrow; of ſmiling peace, into a frowning warre; or if you pleaſe, a drawing in of men into a maze of confuſion, if it preoccupate the underſtanding; it is enough to hazzard the utter confounding of it, if the republique ſubvert and rui<g ref="char:EOLhyphen"/>nate it, if the minds of men do allienate them from their duty: and laſtly, if it have ſeized upon the heart of the ſubject, 'tis unfortunately all-ſuf<g ref="char:EOLhyphen"/>ficiently able and powerfull to withdraw him from his due loyalty, yea even to ſoveraignty; and I feare it doth too many, yea too too many; in a word, 'tis a frenzy that ſo captivates poore man, that hee oft doth hee knowes not what, and leſſe cares, (more is the pitty) a<g ref="char:EOLhyphen"/>gainſt hee knowes not, or will not at leaſt know, whom. And doth not our <hi>Britiſh</hi> Nation groane, groane, yea even to death almoſt, ſorely vext and miſerably tormented, withall the ſeverall ſpecies and kinds of diſtraction <hi>City, Countrey, Court, Nobles, Gentry, Poore men, Good men, Clergy men, Lawyers, Phyſitians.</hi> Finally, all ſorts of men are ſpiced with this diſtemper; ſome more, ſome leſſe, yet all in ſome, though in a different meaſure, no ſex, no age, but a taint of this malady. Goe into the <hi>City,</hi> and there you ſhall heare, a numberleſſe number of all ſorts of people lamenting at a dearth of Trading: Viſite the <hi>Coun<g ref="char:EOLhyphen"/>trey,</hi> and there you ſhall finde the abler Sort complaining that they cannot get money for their Commodities. Poore men they want
+<pb n="3" facs="tcp:156257:3"/> monie to buy Commodities, and worke to gaine moneyes. Fre<g ref="char:EOLhyphen"/>quent the <hi>Court,</hi> and then you will there finde a world of Diſtra<g ref="char:EOLhyphen"/>ctions cauſed, for that they cannot bee made Maſters of a world of Poſſeſsions. The <hi>Nobles,</hi> they emulate each the other, I wiſh I could juſtly ſay, not envy one another. The <hi>Gentry,</hi> are doubtfull they ſhall hazzard the loſſe of what they have. The poore man is as much perplexed, how to get wherewithall to ſubſiſt. Good men are diſtracted, for to ſee Vice ſo much promoted, Vertue contemned, and <hi>Clergy men,</hi> many of them, (God forbid) I ſhould thinke or ſay all) are more ſorely perplexed for feare of a diminution of their yearely revenues, then an alteration in Religion. <hi>Lawyers</hi> are mole<g ref="char:EOLhyphen"/>ſted for want of <hi>Clients,</hi> and <hi>Phyſicians</hi> enforced to have Patience in<g ref="char:EOLhyphen"/>ſtead of <hi>Patients.</hi> Finally, all ſorts of men, all Sexes are diſtempered ſorely, for feare of what will become of all: But what hath cauſed this Epidemicall diſeaſe. I ſhall not poſitively take upon me to afirme, but onely probably lay open unto your view, what my conjecture is, if I <hi>Augurate</hi> aright, you have cauſe to ſide with me; yea and to thanke me: If amiſſe, I pray excuſe me.</p>
+            <p>Undoubtly, This unfortunate diſtraction, or fraction, ſhall I call it; for it hath indeed broken already too many, ſince God in his ju<g ref="char:EOLhyphen"/>ſtice hath permitted it to fall amongſt us; For that we have broken and fallen from his Commandements. I will not Commemorate at large, the crying ſinnes of our Nation, <hi>Pride, Envie, Whoredome, Drun<g ref="char:EOLhyphen"/>kenneſſe, Ingratitude,</hi> and a Thouſand ſuch like Diabolicall vices. Nor will I particularize any mans frailety, onely this I muſt deale plainely with you, I cannot but with unſpeakable ſorrow of heart, condole abundantly, to ſee how our good and gracious God, as well as our pi<g ref="char:EOLhyphen"/>ous and Religious King is leſſe gratiouſly treated with by many of us; then iuſtly beſeemeth ſuch, who carry the name of good Chri<g ref="char:EOLhyphen"/>ſtians, and loyall Subiects; Witneſſe our neglect of due obedience to Soveraigne power; Witneſſe our undervaluing of holy men and holy exerciſes, I meane ſuch, as efficaciouſly endeavour to invite and preſſe us to <hi>Feare God and Honour the King;</hi> Not ſuch, who however plea<g ref="char:EOLhyphen"/>ſing to the times, or plauſible in outward ſhew in their Doctrine, vent little elſe but malice and Sedition, making it their inauſpicious emulati<g ref="char:EOLhyphen"/>on and ambition, to draw the hearts of men, rather to themſelves then to GOD, or their good King, Gods annointed, and the place where Divine Oracles ſhould bee enucleated, a place where Gods Word is wreſted to their owne ends, to maintaine that which I ſhould iniure Truth, and wrong my owne Iudgement, if I ſhould brand with any better appellation then Schiſme, Faction, yea down
+<pb n="4" facs="tcp:156257:4"/> right Treaſon. Treaſon againſt God, Treaſon againſt the King. For Tell me, deare Soule who ere thou art. Art thou in holy Writ denomi<g ref="char:EOLhyphen"/>nated to be a creature, made after Gods owne Image. Then let me tell thee, Gods owne command is, Honour thy Creator. Wouldſt thou gladly learne to honour Him, O then obey and put in practiſe his Coeleſtiall commands, Be ſubiect vnto thy Prince, for Kings are Gods Annoynted heere on earth: and <hi>not he that knowes the will of his hea<g ref="char:EOLhyphen"/>venly Father, but he which doth it, ſhall receive the reward.</hi> I pray God direct all Chriſtian hearts to put in practiſe this, and all other their iuſt duties.</p>
+            <p>Then ſhall we have no grounded reaſon to take up Armes, and im<g ref="char:EOLhyphen"/>brue one anothers hands in each others bloud.</p>
+            <p>Then ſhall we have no hopeleſſe hope, either of our Kingdome, or our owne particular ſafety.</p>
+            <p>Then ſhall we have happy Teſtimonies, that if we will yet returne to God, by a contrite ſorrow for what is paſt, God out of the riches of his accuſtomed mercies, will cauſe <hi>Peace to be within our walles, and plenteouſ<g ref="char:punc">▪</g> within our Pallaces.</hi>
+            </p>
+            <p>Laſtly, Then ſhall all the people vnanimouſly yeeld a due Loyalty to their Soveraigne Lord the King, and the good King like an indulgent fa<g ref="char:EOLhyphen"/>ther ſeeke all Auſpicious meanes dexterouſly to preſerve his peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Thus breifely, and plainely, I have made apparent unto you one cauſe, and a great cauſe of our preſent diſtractions, intimating unto you, how originally it tooke its firſt breath, eſſence, and being from our ne<g ref="char:EOLhyphen"/>glect of duty both to God, and the King, in not awefully fearing the one, and readily, and cheerefully honouring and obeying the other. I have alſo preſcribed you a coeleſtiall Cordiall for the cure; let every one in Gods name make uſe of it: and I dare confidently affirme, that it will produce peace and plenty unto us; peace at home, and peace a<g ref="char:EOLhyphen"/>broad, peace Temporall, and peace Spirituall, plenty of good workes, and plenty of good rewards. O then deare ſoule, haſt thou through negligence loſt yeſterday, yet through double diligence gaine tomor<g ref="char:EOLhyphen"/>row: 'tis never too late to mend, and never too ſoone to beginne. And thus much I recommend breifly unto you all, out of a Chriſtian de<g ref="char:EOLhyphen"/>ſire, prudently to direct; I dare at leaſt ſay, moſt ſafely to admoniſh you all. I ſhould now give a Period to this unpolliſhed peroration, but that mee thinkes, I heare ſome factious <hi>Rabby,</hi> a man too well knowne in this age, too much favoured, and indeed, famous onely for his infamous life and doctrine, who hath more piety in his tongue and outward ſhew, then in his heart; impudently beginnes to teach you ano<g ref="char:EOLhyphen"/>ther kind of leſſon.</p>
+            <pb n="5" facs="tcp:156257:4"/>
+            <p>I animated you to ſeeke after peace, but hee roares cut amaine, crying aloud, <hi>Arme, Arme,</hi> turning himſelfe this way, that way, and the other, but never the right way.</p>
+            <p>I gave you wholeſome advice to feare God, and honour the King, hee makes it (more is the pitty) the ſumme totall, almoſt of his diſ<g ref="char:EOLhyphen"/>courſe, to deſwade you from obeying your lawfull Prince; and ſo by conſequence inſtigateth you to commit treaſon, both againſt God and Gods annointed: Nor feares hee to teach you this leſſon againe and a<g ref="char:EOLhyphen"/>gaine, hee hath taken <hi>Sanctuary</hi> already, and will not I feare quit him<g ref="char:EOLhyphen"/>ſelfe of his Pulpit this two houres, nor ſtops he where many loſe them<g ref="char:EOLhyphen"/>ſelves, At <hi>Arme, Arme:</hi> after which <hi>Alarum</hi> hee caſts himſelfe ſo furiouſly about to the people as if hee had meant to caſt away his owne armes. No, hee hath found out many waighty motives and reaſons to ſpurre on many of his Auditours, which in one halfe houre, hee had preacht almoſt faſt aſleepe; feare and jealouſies poſſeſſe his brany, and hee is fully reſolved ere long, they ſhall enter into the minds of his Au<g ref="char:EOLhyphen"/>ditours; for which end, hee roares like a Lyon, and cries amaine, <hi>plots! plots!</hi> unheard of <hi>plots! Popiſh plots!</hi> At the report of which his Au<g ref="char:EOLhyphen"/>ditory awakes, and beginne to prick up their eares to give attention to his frivolous ſeditious diſcourſe.</p>
+            <p>Theſe, even theſe, (though none ſuch ever were,) hee avoucheth to bee true, and unleſse you will take <hi>Armes</hi> now to defend your ſelves, theſe <hi>plots</hi> menace your utter ruine. And thus hee poyſons not a few of his auditory.</p>
+            <p>Stayes hee here? no, yet further hee goes, and impudently affirmes, that Biſhops are Limbs of Antichriſt, decent Ceremonies are ſuper<g ref="char:EOLhyphen"/>ſtitious, hee counts order in praying, as the Church hath ſet downe unto us, as Papiſticall; nay, the Lords prayer is abomination in his mouth.</p>
+            <p>Stayes hee here? ſurely no, further to enliven you in this cauſe, hee dares tell you, your life, your liberty, your religion, all that is neer or deer unto you is now at ſtake, except you fight, or at leaſt aſſiſt with your purſes this cauſe.</p>
+            <p>Deſire you to know your enemies, why they are at hand, I am ſure, at leaſt they are in his mouth; who who are they? marry heele tell you, they are thoſe damned Cavaliers, he is ſure they are damned. And I am ſure he ſaid ſo, there is nothing wanting to compleat their damnati<g ref="char:EOLhyphen"/>on, if you will beleeve this grand <hi>Aſſertour;</hi> in truth, this uncharitable Chriſtian: but that you reciprocally reſolve to cut them off, and ſo ſend them immediately into Hell, where he leaves them in his own imagina<g ref="char:EOLhyphen"/>tion, and having waſted away two houres, takes his leave of his Pulpit.</p>
+            <p>I will not take upon mee to judge what may become of this man
+<pb n="6" facs="tcp:156257:5"/> in the World to come, becauſe ſacred writ commands mee not to judge, leaſt I bee judged. <hi>Let him that condemneth another take heed, leaſt hee bee condemned:</hi> But ſure I am, theſe and the favourers of ſuch as theſe men are, who ever they bee, next to our ſinnes are the onely cauſe of our woes, our miſeries, our diſtractions. And as they are juſtly odious in the ſight of God, who greets with a heavenly bleſſing the Peace-maker: ſaying, <hi>Bleſſed bee the Peace-maker, &amp;c.</hi> So hee denounceth nothing but judgement, and direfull curſes to fall on the contentious man, who ſowes diſcord as tares to poyſon and hinder the good ſeed; I will cloſe up all in a word.</p>
+            <p>My deare Countreymen, and truly deare, if deare in the ſight of God, as I hope and wiſh you all ever may bee; God hath pleaſed to bleſſe this Nation above all others with all manner of bleſſings, for many yeares paſt as I told you before. Vnder one Soveraigneſſe, and two Soveraignes, the latter of which God long preſerve, hee being the mirrour of all <hi>Chriſtian Princes,</hi> unexampled for his piety, unparallell'd for his free acts of grace and mercy, and one who ſo long, and no longer, deſires the bleſſing of the Almighty to him and his Royall poſterity, and his good Subjects lawfull aſſiſtance, as hee ſhall maintaine their religion in the purity of it; their eſtates, liberties, and lawes for the ſafety of them, their lives, and their poſterity. And ſo long beloved Countrey-men, I dare ſacrifice my life for to maintaine the aſſertion, if a juſt and neceſſary occaſion ſhould invite mee thereunto; wee are all bound to defend his Royall Perſon, Crowne, and Dignity, againſt any power whatſoever, that ſhall labour to hazzard the one, or infringe and debilitate the other. And if it ſhould fatally fall out, that our King on his part ſhould not performe his Royall and ſacred word, for the word of a King, is and ought to be as ſacred, as is his Perſon, (which as yet I deeme a kind of impiety the leaſt to doubt of;) then, when hee breakes on his part, (which fatall <hi>omen</hi> God avert:) wee have ſome colour, though I cannot truly ſay, any juſt and lawfull cauſe to keepe from him any of his juſt rights, which wee are bound by the law of God to render unto him by the law of this our Nation; and finally by the oath of Supremacy, Allegiance, and the late Proteſtation; and in the name and feare of God I dare confidently aſſure you, that if you all faithfully reſolve actual<g ref="char:EOLhyphen"/>ly to performe this duty, God will reſtore you aboundantly to your former happineſſe, and multiply his mercies on you and your poſterity. Yea, though the malevolence of ſome Sectaries, (thoſe who are indeed the true Malignants;) maugre their ſpight, and ſpit their utmoſt venome. God diſpoſe every one of your hearts, as may be beſt for his honour, and glory, your King his Kingdome, and every one of your owne ſafety.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
